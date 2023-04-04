@@ -1,6 +1,5 @@
 # my-new-quarkus-app
-
-
+Change places
 
 ## Running the application in dev mode
 
